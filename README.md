@@ -2,26 +2,26 @@
 ## Task 1
 ### 1.a
 
-> model: 
->> wrapper for a model, should contain variables, constants and equations 
+model: 
+> wrapper for a model, should contain variables, constants and equations 
 
-> equation: 
->> equation part of model, all lines between equation and end should be equations describing the model.
+equation: 
+> equation part of model, all lines between equation and end should be equations describing the model.
 
-> end: 
->> end keyword of a model
+end: 
+> end keyword of a model
 
-> parameter:
->> variable constant, can be assigned new values post-compilation
+parameter:
+> variable constant, can be assigned new values post-compilation
 
-> Real: 
->> a real number type, signed
+Real: 
+> a real number type, signed
 
-> start: 
->> initial value of a variable
+start: 
+> initial value of a variable
 
-> der: 
->>first order time derivative of a variable
+der: 
+>first order time derivative of a variable
 
 ### 1.b
 
@@ -29,7 +29,7 @@
 
 ### 1.c
 
-<embed src="export_1c.pdf" type="application/pdf"/>
+![task 1c](export_1c.svg)
 
 ### 1.d
 
@@ -42,7 +42,7 @@
 + switched b from 17 to 30
 + switched x(0) from -2 to 1
 
-<embed src="export_1e.pdf" type="application/pdf"/>
+![task 1e](export_1e.svg)
 
 ### 1.f
 
@@ -54,9 +54,6 @@ simulations completed with:
 + simulation steps = 20
 + solvers: dassl and euler, respectively
 
-<embed src="export_1f_dassl.pdf" type="application/pdf"/>
+![task 1f dassl](export_1f_dassl.svg)
 
-
-![yolo](https://docs.google.com/viewer?url=https://github.com/magnarok49/modsim-ex1/raw/master/export_1f_dassl.pdf)
-
-<embed src="export_1f_euler.pdf" type="application/pdf"/>
+![task 1f euler](export_1f_euler.svg)
