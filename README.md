@@ -55,5 +55,6 @@ simulations completed with:
 + solvers: dassl and euler, respectively
 
 <embed src="export_1f_dassl.pdf" type="application/pdf"/>
+![yolo](https://docs.google.com/viewer?url=${https://github.com/magnarok49/modsim-ex1/blob/master/export_1f_dassl.pdf})
 
 <embed src="export_1f_euler.pdf" type="application/pdf"/>
